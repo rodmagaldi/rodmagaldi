@@ -1,7 +1,7 @@
 ### Hi there 👋! Nice to see you around here.
 
 ## 🧔 Who am I?
-My name is Rodrigo Magaldi, and I am a Brazilian student @ Poli-USP and software developer.
+My name is Rodrigo Magaldi, I am a Brazilian student @ Poli-USP and software developer.
 
 I am mostly experienced (for now 😬) with NodeJS backend applications.
 
