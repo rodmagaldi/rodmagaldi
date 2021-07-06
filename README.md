@@ -1,3 +1,10 @@
+<style>
+.linkedin {
+    margin-right: 20px;
+}
+</style>
+
+
 ### Hi there 👋! Nice to see you around here.
 
 ## 🧔 Who am I?
@@ -19,7 +26,7 @@ I am mostly experienced (for now 😬) with NodeJS backend applications.
 
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/" style="margin: 1em">
+<a class="linkedin" href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/">
     <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a href="mailto:rod.magaldi@gmail.com">
