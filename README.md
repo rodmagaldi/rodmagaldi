@@ -5,8 +5,8 @@ My name is Rodrigo Magaldi, and I am a Brazilian student @ Poli-USP and software
 I am mostly experienced (for now 😬) with NodeJS backend applications.
 
 ## Experience with:
-- <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111432.svg"/>  Git & Version Management
-- <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/2913/2913970.svg"/> HTML, <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/2913/2913970.svg"/> CSS, <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/2913/2913970.svg"/> JS
+- <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg"/>  Git & Version Management
+- <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051277.svg"/> HTML, <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/> CSS, <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/> JS
 - ☁️ Google Cloud Platform
 
 
