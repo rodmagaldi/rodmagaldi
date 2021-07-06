@@ -18,11 +18,10 @@ I am mostly experienced (for now 😬) with NodeJS backend applications.
 - <img width="16" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> ReactJS
 
 ## 📫 How to reach me:
-<a href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/">
+- <a href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/">
   <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
-  LinkedIn
 </a>
-<a href="mailto:rod.magaldi@gmail.com">
+- <a href="mailto:rod.magaldi@gmail.com">
   <img alt="My Gmail" width="28" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
   E-mail
 </a>
