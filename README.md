@@ -25,11 +25,11 @@ I am mostly experienced (for now 😬) with NodeJS backend applications.
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/">
-    <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+    <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></code>
 </a>
 My LinkedIn Profile
 </br>
 <a href="mailto:rod.magaldi@gmail.com">
-    <img alt="My Gmail" width="28" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
+    <code><img alt="My Gmail" width="28" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></code>
 </a>
 My personal email
