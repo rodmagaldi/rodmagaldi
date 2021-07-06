@@ -6,16 +6,16 @@ My name is Rodrigo Magaldi, and I am a Brazilian student @ Poli-USP and software
 I am mostly experienced (for now 😬) with NodeJS backend applications.
 
 ## Experience with:
-- <img width="16" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>  Git & Version Management
-- <img width="16" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/> HTML, <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/> CSS, <img width="16" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"/> JS
-- <img width="16" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> Python / <img width="16" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" /> Django & Django REST Framework
-- <img width="16" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /> NodeJS
-- <img width="16" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> Typescript
-- <img width="16" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /> GraphQL
-- <img width="16" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> Google Cloud Platform
+- <code><img width="16" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code>  Git & Version Management
+- <code><img width="16" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/></code> HTML, <code><img width="16" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/></code> CSS, <code><img width="16" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"/></code> JS
+- <code><img width="16" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /></code> Python / <code><img width="16" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" /></code> Django & Django REST Framework
+- <code><img width="16" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></code> NodeJS
+- <code><img width="16" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></code> Typescript
+- <code><img width="16" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /></code> GraphQL
+- <code><img width="16" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /></code> Google Cloud Platform
 
 ## I am currently studying:
-- <img width="16" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> ReactJS
+- <code><img width="16" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></code> ReactJS
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/">
