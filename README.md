@@ -2,6 +2,7 @@
 
 ## Who am I?
 My name is Rodrigo Magaldi, and I am a Brazilian student @ Poli-USP and software developer.
+
 I am mostly experienced (for now 😬) with NodeJS backend applications.
 
 ## Experience with:
@@ -13,7 +14,8 @@ I am mostly experienced (for now 😬) with NodeJS backend applications.
 - <img width="16" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /> GraphQL
 - <img width="16" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> Google Cloud Platform
 
-
+## I am currently studying:
+- <img width="16" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> ReactJS
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/">
