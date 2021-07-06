@@ -5,9 +5,13 @@ My name is Rodrigo Magaldi, and I am a Brazilian student @ Poli-USP and software
 I am mostly experienced (for now 😬) with NodeJS backend applications.
 
 ## Experience with:
-- <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg"/>  Git & Version Management
-- <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051277.svg"/> HTML, <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/> CSS, <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/> JS
-- ☁️ Google Cloud Platform
+- <img width="16" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>  Git & Version Management
+- <img width="16" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/> HTML, <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/> CSS, <img width="16" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"/> JS
+- <img width="16" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> Python / <img width="16" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" /> Django / Django REST Framework
+- <img width="16" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /> NodeJS
+- <img width="16" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> Typescript
+- <img width="16" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /> GraphQL
+- <img width="16" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> Google Cloud Platform
 
 
 
