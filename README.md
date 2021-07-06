@@ -1,10 +1,3 @@
-<style>
-.linkedin {
-    margin-right: 20px;
-}
-</style>
-
-
 ### Hi there 👋! Nice to see you around here.
 
 ## 🧔 Who am I?
@@ -24,28 +17,19 @@ I am mostly experienced (for now 😬) with NodeJS backend applications.
 ## 🌱 I am currently studying:
 - <img width="16" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> ReactJS
 
+## 🛤️ Roadmap:
+- <img width="16" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> React Native
+- <img width="16" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> Flutter
+- <img width="16" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" /> Elixir
+
 ## 📫 How to reach me:
 
-<a class="linkedin" href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/">
+<a href="https://www.linkedin.com/in/rodrigo-miksian-magaldi/">
     <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
+My LinkedIn Profile
+</br>
 <a href="mailto:rod.magaldi@gmail.com">
     <img alt="My Gmail" width="28" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
 </a>
-
-
-
-<!--
-**rodmagaldi/rodmagaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My personal email
